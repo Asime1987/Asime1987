@@ -5,8 +5,11 @@ I've always been passionate about building workflows and pipelines for meta-omic
 I  am an optimistic enthusiast who believes that if I didn't know how to do a particular thing, I will find out how to do it through learninig and unlearning. So programming has been a perfect fit for me to achieve my dreams and contribute to the body of knowledge.
 
 👀 I am interested in Molecular Microbial Ecology, Plant Microbe Interactions, Environmental Microbiology, Biogeochemistry and Metagenomics 
+
 🌱 I’m currently learning R, Python and looking for help with Data Structures & Algorithms 
+
 💞️ I’m looking to collaborate on open source bioinformatics projects 
+
 📫 How to reach me: asimejamesoba@gmail.com
 I love books, movies and good food
 
